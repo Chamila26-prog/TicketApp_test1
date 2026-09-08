@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\ICTICT449 - LSDS - Practical Test Preparation (1)\\Student Files\\Ticketing\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\TicketApp_test1_copy\\Ticketing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|c:\\users\\user\\downloads\\ictict449 - lsds - practical test preparation (1)\\student files\\ticketing\\ticketing\\ticketprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|c:\\users\\user\\documents\\ticketapp_test1_copy\\ticketing\\ticketing\\ticketprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\ticketprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TicketPrice.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ICTICT449 - LSDS - Practical Test Preparation (1)\\Student Files\\Ticketing\\Ticketing\\TicketPrice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\TicketApp_test1_copy\\Ticketing\\Ticketing\\TicketPrice.cs",
               "RelativeDocumentMoniker": "Ticketing\\TicketPrice.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\ICTICT449 - LSDS - Practical Test Preparation (1)\\Student Files\\Ticketing\\Ticketing\\TicketPrice.cs*",
-              "RelativeToolTip": "Ticketing\\TicketPrice.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Documents\\TicketApp_test1_copy\\Ticketing\\Ticketing\\TicketPrice.cs",
+              "RelativeToolTip": "Ticketing\\TicketPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T12:23:56.18Z",
               "EditorCaption": ""
